@@ -1,7 +1,7 @@
 {
   "name": "leetcode",
   "version": "1.0.0",
-  "description": "my decides of leetcode in Blind Curated 75",
+  "description": "typescript noteses from Mat Pocock",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -15,14 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mcnic/leetcode.git"
+    "url": "git+https://github.com/mcnic/ts-tricks.git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mcnic/leetcode/issues"
-  },
-  "homepage": "https://github.com/mcnic/leetcode#readme",
   "devDependencies": {
     "@babel/core": "^7.23.6",
     "@babel/preset-env": "^7.23.6",
